@@ -26,9 +26,13 @@ https://trello.com/c/JTyG2pS0/198-metamask-dash-snap
 
 # 2. Deliverables
 
-## 2.1. MetaMask Flask / Snap Browser Extension with support for Dash Network
+## 2.1. Deliverable 1
 
-## 2.2. Sample HTML and/or React Site for connecting with MetaMask Browser Extension
+MetaMask Flask / Snap Browser Extension with support for Dash Network
+
+## 2.2. Deliverable 2
+
+Sample HTML and/or React Site for connecting with MetaMask Browser Extension
 
 # 3. Requirements
 
